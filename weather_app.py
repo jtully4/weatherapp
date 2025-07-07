@@ -1,6 +1,6 @@
 import requests
 
-api_key = "702bf8f7f61d93a1d4d16341212a872f"
+api_key = """user API KEY"""
 
 def get_city(city):
 
